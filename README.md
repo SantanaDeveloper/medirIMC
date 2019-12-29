@@ -6,8 +6,9 @@ Para calcular o IMC basta o usuário inserir os dados de _peso_ e _altura_.
 fonte: [wikipedia](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal)
 
 # Motivo
-Projeto desenvolvido para aprimorar as skills da disciplina de *PROGRAMAÇÃO FRONT-END*
+Projeto desenvolvido para aprimorar as skills da disciplina de *DESENVOLVIMENTO FRONT-END*
 
 # Visite
 [Agência Santana](https://agenciasantana.com.br)
+
 
